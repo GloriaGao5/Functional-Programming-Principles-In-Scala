@@ -1,0 +1,2 @@
+;reload; set _root_.org.jetbrains.sbt.StructureKeys.sbtStructureOptions in Global := "download resolveClassifiers" ;*/*:dumpStructureTo /private/var/folders/kp/s8kknyfj4pb9s3x5hxz3rjrh0000gn/T/sbt-structure.xml; session clear-all
+all {file:/Users/mac/Documents/GitHub/Functional_Programming_Principles_in_Scala/Week1/recfun/}root/products {file:/Users/mac/Documents/GitHub/Functional_Programming_Principles_in_Scala/Week1/recfun/}root/test:products
